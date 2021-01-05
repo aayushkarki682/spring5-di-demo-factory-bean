@@ -2,3 +2,11 @@ guru:
   username: Aayush
   password: Baisakh28
   dburl: askdjfjsaf
+
+---
+guru:
+  password: SabinaRaAayush
+spring:
+  config:
+    activate:
+      on-profile: en
