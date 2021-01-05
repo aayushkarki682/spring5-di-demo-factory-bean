@@ -1,0 +1,32 @@
+# this is a comment
+
+name: Aayush
+
+name_list:
+  - Aayush
+  - Laxman
+  - Paras
+  - Parth
+
+pound_sign: "#"
+
+book:
+  author: Aayush
+  publisher: "Aayush Publications"
+
+truth: yes
+
+another_truth: true
+
+false: no
+
+include_new_lines: |    # pipe character is going to read in everything and will include the new lines
+  aas kdajf  k;jdv
+  akdgjnad ladjnlajdakdfn
+  asjfkna
+  af
+
+ignore_new_lines: >   # this will ignore the new lines and put all the string in one line
+  Hello! My name
+  is Aaayush Karki.
+  I love you all.
