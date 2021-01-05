@@ -1,6 +1,6 @@
 Spring5-di-demo-factorybean
 
-This has the example of how to use the @Primary, @Profile annotations to priorize which component to use when it has lots of options.
+This project shows the example of how to use the @Primary, @Profile annotations to priorize which component to use when it has lots of options.
 
 
 
